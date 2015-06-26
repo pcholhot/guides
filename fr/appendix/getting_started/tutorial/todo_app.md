@@ -17,7 +17,7 @@ var TodoView = require('./views/layout');
 var initialData = {
   items: [
     {assignee: 'Scott', text: 'Write a book about Marionette'},
-    {assignee: 'Andrew': text: 'Do some coding'}
+    {assignee: 'Andrew', text: 'Do some coding'}
   ]
 };
 
